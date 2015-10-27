@@ -1,0 +1,131 @@
+@article{PhysRevLett.114.108001,
+  title = {Identifying Structural Flow Defects in Disordered Solids Using Machine-Learning Methods},
+  author = {Cubuk, E. D. and Schoenholz, S. S. and Rieser, J. M. and Malone, B. D. and Rottler, J. and Durian, D. J. and Kaxiras, E. and Liu, A. J.},
+  journal = {Phys. Rev. Lett.},
+  volume = {114},
+  issue = {10},
+  pages = {108001},
+  numpages = {5},
+  year = {2015},
+  month = {Mar},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.114.108001},
+  url = {http://link.aps.org/doi/10.1103/PhysRevLett.114.108001}
+}
+
+@article{Balachandran2015,
+abstract = {In the paradigm of materials informatics for accelerated materials discovery, the choice of feature set (i.e. attributes that capture aspects of structure, chemistry and/or bonding) is critical. Ideally, the feature sets should provide a simple physical basis for extracting major structural and chemical trends and furthermore, enable rapid predictions of new material chemistries. Orbital radii calculated from model pseudopotential fits to spectroscopic data are potential candidates to satisfy these conditions. Although these radii (and their linear combinations) have been utilized in the past, their functional forms are largely justified with heuristic arguments. Here we show that machine learning methods naturally uncover the functional forms that mimic most frequently used features in the literature, thereby providing a mathematical basis for feature set construction without a priori assumptions. We apply these principles to study two broad materials classes: (i) wide band gap AB compounds and (ii) rare earth-main group RM intermetallics. The AB compounds serve as a prototypical example to demonstrate our approach, whereas the RM intermetallics show how these concepts can be used to rapidly design new ductile materials. Our predictive models indicate that ScCo, ScIr, and YCd should be ductile, whereas each was previously proposed to be brittle.},
+author = {Balachandran, Prasanna V and Theiler, James and Rondinelli, James M and Lookman, Turab},
+doi = {10.1038/srep13285},
+file = {:home/qgroup/Downloads/srep13285.pdf:pdf},
+issn = {2045-2322},
+journal = {Scientific reports},
+month = jan,
+pages = {13285},
+pmid = {26304800},
+publisher = {Nature Publishing Group},
+title = {{Materials Prediction via Classification Learning.}},
+url = {http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=4548442\&tool=pmcentrez\&rendertype=abstract},
+volume = {5},
+year = {2015}
+}
+# possible improvement may be to use this method for feature space rather than the bispectrum coeffs.
+@article{PhysRevLett.114.096405,
+  title = {Molecular Dynamics with On-the-Fly Machine Learning of Quantum-Mechanical Forces},
+  author = {Li, Zhenwei and Kermode, James R. and De Vita, Alessandro},
+  journal = {Phys. Rev. Lett.},
+  volume = {114},
+  issue = {9},
+  pages = {096405},
+  numpages = {5},
+  year = {2015},
+  month = {Mar},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.114.096405},
+  url = {http://link.aps.org/doi/10.1103/PhysRevLett.114.096405}
+}
+
+## General machine learning I suppose????
+@book{Mackay2003,
+address = {England},
+author = {Mackay, David J C},
+file = {:home/qgroup/Downloads/book.pdf:pdf},
+isbn = {0521642981},
+publisher = {Cambridge University Press},
+title = {{Information Theory , Inference , and Learning Algorithms}},
+year = {2003}
+}
+
+@article{Glazer2008,
+author = {Glazer, Dariya S. and Radmer, Randall J. and Altman, Russ B.},
+file = {:home/qgroup/Downloads/nihms-56772.pdf:pdf},
+journal = {Pac Symp Biocomput.},
+pages = {332--343},
+title = {{Combining Molecular Dynamics and Machine Learning to Improve Protein Function Recognition}},
+year = {2008}
+}
+
+@article{Rupp2012,
+author = {Rupp, Matthias and Tkatchenko, Alexandre and M\"{u}ller, Klaus-Robert and von Lilienfeld, O. Anatole},
+doi = {10.1103/PhysRevLett.108.058301},
+file = {:home/qgroup/Downloads/PhysRevLett.108.058301.pdf:pdf},
+issn = {0031-9007},
+journal = {Physical Review Letters},
+month = jan,
+number = {5},
+pages = {058301},
+title = {{Fast and Accurate Modeling of Molecular Atomization Energies with Machine Learning}},
+url = {http://link.aps.org/doi/10.1103/PhysRevLett.108.058301},
+volume = {108},
+year = {2012}
+}
+
+@article{Hansen2013,
+author = {Hansen, Katja and Biegler, Franziska and Fazli, Siamac and Rupp, Matthias and Sche, Matthias and Lilienfeld, O Anatole Von and Tkatchenko, Alexandre and Mu, Klaus-robert},
+file = {:home/qgroup/Downloads/ct400195d.pdf:pdf},
+journal = {Journal of Chemical Theory and Computation},
+pages = {3404--3419},
+title = {{Assessment and Validation of Machine Learning Methods for Predicting Molecular Atomization Energies}},
+volume = {9},
+year = {2013}
+}
+
+@article{Montavon2013a,
+author = {Montavon, Gr\'{e}goire and Rupp, Matthias and Gobre, Vivekanand and Vazquez-Mayagoitia, Alvaro and Hansen, Katja and Tkatchenko, Alexandre and M\"{u}ller, Klaus-Robert and {Anatole von Lilienfeld}, O},
+doi = {10.1088/1367-2630/15/9/095003},
+file = {:home/qgroup/Downloads/pdf.pdf:pdf},
+issn = {1367-2630},
+journal = {New Journal of Physics},
+month = sep,
+number = {9},
+pages = {095003},
+title = {{Machine learning of molecular electronic properties in chemical compound space}},
+url = {http://stacks.iop.org/1367-2630/15/i=9/a=095003?key=crossref.c7515a05af17cccdbeec1c83340d4405},
+volume = {15},
+year = {2013}
+}
+
+
+@article{Pozun2012a,
+abstract = {We present a method for optimizing transition state theory dividing surfaces with support vector machines. The resulting dividing surfaces require no a priori information or intuition about reaction mechanisms. To generate optimal dividing surfaces, we apply a cycle of machine-learning and refinement of the surface by molecular dynamics sampling. We demonstrate that the machine-learned surfaces contain the relevant low-energy saddle points. The mechanisms of reactions may be extracted from the machine-learned surfaces in order to identify unexpected chemically relevant processes. Furthermore, we show that the machine-learned surfaces significantly increase the transmission coefficient for an adatom exchange involving many coupled degrees of freedom on a (100) surface when compared to a distance-based dividing surface.},
+author = {Pozun, Zachary D and Hansen, Katja and Sheppard, Daniel and Rupp, Matthias and M\"{u}ller, Klaus-Robert and Henkelman, Graeme},
+doi = {10.1063/1.4707167},
+file = {:home/qgroup/Downloads/1.4707167 (2).pdf:pdf},
+issn = {1089-7690},
+journal = {The Journal of chemical physics},
+keywords = {Algorithms,Artificial Intelligence,Computational Biology,Molecular Dynamics Simulation,Software,Support Vector Machines,Surface Properties},
+month = may,
+number = {17},
+pages = {174101},
+pmid = {22583204},
+title = {{Optimizing transition states via kernel-based machine learning.}},
+url = {http://www.ncbi.nlm.nih.gov/pubmed/22583204},
+volume = {136},
+year = {2012}
+}
+
+
+### REMEMBER TO DO BARTOK TOOO!!!!!!!!!!!!!!!!!!!!
+
+
+
