@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=latex 2015.6.24)  27 OCT 2015 17:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=latex 2015.6.24)  6 NOV 2015 17:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./machine_learning.tex
+**machine_learning.tex
 (./machine_learning.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
@@ -49,181 +49,106 @@ File: dvips.def 2014/10/14 v3.0j Driver-dependent file (DPC,SPQR)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-(./machine_learning.aux)
+(./machine_learning.aux
+
+LaTeX Warning: Label `sec:training' multiply defined.
+
+
+LaTeX Warning: Label `fig:bidefbcc' multiply defined.
+
+
+LaTeX Warning: Label `fig:cspbcc' multiply defined.
+
+
+LaTeX Warning: Label `fig:cnabcc' multiply defined.
+
+)
 \openout1 = `machine_learning.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
  [1
 
 ]
-
-LaTeX Warning: Citation `Honeycutt1987' on page 2 undefined on input line 93.
-
-
-LaTeX Warning: Citation `Stukowski2012' on page 2 undefined on input line 93.
-
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 93.
+(Font)              <12> on input line 51.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 93.
+(Font)              <8> on input line 51.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 93.
-
-LaTeX Warning: Citation `Stukowski2012' on page 2 undefined on input line 93.
+(Font)              <6> on input line 51.
 
 
-LaTeX Warning: Citation `Kelchner1998' on page 2 undefined on input line 95.
-
-[2]
-
-LaTeX Warning: Citation `Steinhardt1983' on page 3 undefined on input line 103.
+LaTeX Warning: Citation `Schablitzki2013' on page 2 undefined on input line 59.
 
 
-
-Underfull \hbox (badness 1005) in paragraph at lines 103--104
-[]\OT1/cmr/m/n/12 Bond-order analysis [[]] identifies defects by projecting the
- vectors between
- []
-
-
-LaTeX Warning: Citation `Stukowski2010b' on page 3 undefined on input line 112.
-
-
-
-LaTeX Warning: Citation `Zimmerman2001' on page 3 undefined on input line 114.
-
-[3]
-
-LaTeX Warning: Citation `Mohri2012' on page 4 undefined on input line 118.
-
-
-LaTeX Warning: Citation `Smola2004' on page 4 undefined on input line 120.
-
-
-LaTeX Warning: Citation `Bentley1975' on page 4 undefined on input line 120.
-
-
-LaTeX Warning: Citation `Omohundro1989' on page 4 undefined on input line 120.
-
-
-LaTeX Warning: Citation `Zhang2004' on page 4 undefined on input line 120.
-
-
-LaTeX Warning: Citation `Breiman2001' on page 4 undefined on input line 120.
-
-
-LaTeX Warning: Citation `Zhu2009' on page 4 undefined on input line 120.
-
+[2] [3]
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ≥ in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ° in font cmr12!
+ [4]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ≥ in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ° in font cmr12!
 
-LaTeX Warning: Citation `Bartok-Partay' on page 4 undefined on input line 122.
 
-
-LaTeX Warning: Citation `Bartok2010a' on page 4 undefined on input line 122.
-
-[4]
-
-LaTeX Warning: Citation `Bentley1975' on page 5 undefined on input line 124.
-
-Missing character: There is no √ in font cmr12!
-Missing character: There is no ≥ in font cmr12!
-Missing character: There is no √ in font cmr12!
-Missing character: There is no ° in font cmr12!
-
-LaTeX Warning: Citation `Bartok-Partay' on page 5 undefined on input line 131.
-
-
-LaTeX Warning: Citation `Bartok2010a' on page 5 undefined on input line 131.
-
-
-LaTeX Warning: Citation `Thompson2014' on page 5 undefined on input line 131.
-
-[5]
-
-LaTeX Warning: Citation `Steinhardt1983' on page 6 undefined on input line 139.
-
-
-
-LaTeX Warning: Citation `varshalovich1988' on page 6 undefined on input line 13
-9.
-
-
-LaTeX Warning: Citation `Bartok2010a' on page 6 undefined on input line 139.
+LaTeX Warning: Citation `COORDINATION VECTORS' on page 5 undefined on input lin
+e 78.
 
 ! Undefined control sequence.
-l.145 ...phere analog in 4-D), $(\theta,\phi,\thea
+l.92 ...sphere analog in 4-D), $(\theta,\phi,\thea
                                                   _0)$. Some $\theta_0^{max}...
 
 ? 
-[6]
-Overfull \hbox (13.49065pt too wide) in alignment at lines 154--157
+[5]
+Overfull \hbox (13.49065pt too wide) in alignment at lines 101--104
  [] [] [] [] 
  []
 
 
-LaTeX Warning: Citation `BOOK' on page 7 undefined on input line 162.
+LaTeX Warning: Citation `lammps' on page 6 undefined on input line 105.
+
+[6]
+
+LaTeX Warning: Citation `breiman2001_in_book' on page 7 undefined on input line
+ 121.
 
 
-LaTeX Warning: Citation `Shlens2014' on page 7 undefined on input line 165.
+LaTeX Warning: Citation `eslii chapter' on page 7 undefined on input line 121.
 
-[7]
-
-LaTeX Warning: Citation `Shlens2014' on page 8 undefined on input line 175.
-
-[8]
-
-LaTeX Warning: Citation `Bentley1975' on page 9 undefined on input line 201.
-
-
-LaTeX Warning: Citation `Omohundro1989' on page 9 undefined on input line 201.
-
-
-LaTeX Warning: Citation `Bentley1975' on page 9 undefined on input line 201.
-
-
-LaTeX Warning: Citation `breiman2001_in_book' on page 9 undefined on input line
- 208.
-
-
-LaTeX Warning: Citation `eslii chapter' on page 9 undefined on input line 208.
-
-[9]
-! Incomplete \ifcase; all text was ignored after line 214.
+! Incomplete \ifcase; all text was ignored after line 127.
 <inserted text> 
                 \fi 
-l.214 \hat
+l.127 \hat
           {p}_mk =\frac{1}{N_m} \sum{x_i \in R_m} I(y_i = k)
 ? 
 ! Extra alignment tab has been changed to \cr.
 <recently read> \endtemplate 
                              
-l.214 \hat
+l.127 \hat
           {p}_mk =\frac{1}{N_m} \sum{x_i \in R_m} I(y_i = k)
 ? 
 ! Extra \or.
 \@@eqncr ... {& & &}\or \def \reserved@a {& &}\or 
                                                   \def \reserved@a {&}\else ...
-l.214 \hat
+l.127 \hat
           {p}_mk =\frac{1}{N_m} \sum{x_i \in R_m} I(y_i = k)
 ? 
 ! Extra \else.
 \@@eqncr ...@a {& &}\or \def \reserved@a {&}\else 
                                                   \let \reserved@a \@empty \...
-l.214 \hat
+l.127 \hat
           {p}_mk =\frac{1}{N_m} \sum{x_i \in R_m} I(y_i = k)
 ? 
 
@@ -233,86 +158,47 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.214 \hat
+l.127 \hat
           {p}_mk =\frac{1}{N_m} \sum{x_i \in R_m} I(y_i = k)
 ? 
 ! Extra \fi.
 \@@eqncr ...mns in eqnarray environment}\@ehc \fi 
                                                   \reserved@a \if@eqnsw \@eq...
-l.214 \hat
+l.127 \hat
           {p}_mk =\frac{1}{N_m} \sum{x_i \in R_m} I(y_i = k)
 ? 
 ! Missing { inserted.
 <inserted text> 
                 {
-l.214 \hat
+l.127 \hat
           {p}_mk =\frac{1}{N_m} \sum{x_i \in R_m} I(y_i = k)
 ? 
+[7]
 
-LaTeX Warning: Command \r invalid in math mode on input line 225.
+LaTeX Warning: Command \r invalid in math mode on input line 139.
 
-
-LaTeX Warning: Citation `Hirel2015' on page 10 undefined on input line 225.
-
-[10]
 File: Figures/cropped_feature_gen.eps Graphic file (type eps)
- <Figures/cropped_feature_gen.eps>
+<Figures/cropped_feature_gen.eps>
 
-LaTeX Warning: Reference `fig:training' on page 11 undefined on input line 235.
+LaTeX Warning: Reference `AppendixA' on page 8 undefined on input line 149.
 
-
-
-LaTeX Warning: Citation `Stukowski2012' on page 11 undefined on input line 235.
-
-
-
-LaTeX Warning: Citation `Kelchner1998' on page 11 undefined on input line 235.
-
-
-LaTeX Warning: Reference `AppendixA' on page 11 undefined on input line 235.
-
-[11]
-
-LaTeX Warning: Citation `Plimpton1995' on page 12 undefined on input line 237.
-
+[8]
 File: Figures/featureimportance.eps Graphic file (type eps)
-<Figures/featureimportance.eps>
-
-LaTeX Warning: Reference `fig:featimport' on page 12 undefined on input line 24
-7.
-
-[12]
+ <Figures/featureimportance.eps> [9]
 File: Figures/full_PCA.eps Graphic file (type eps)
- <Figures/full_PCA.eps>
-
-LaTeX Warning: Reference `fig:PCA' on page 13 undefined on input line 257.
-
-
-LaTeX Warning: Reference `fig:PCA' on page 13 undefined on input line 257.
-
-
-LaTeX Warning: Reference `fig:surfPCA' on page 13 undefined on input line 257.
-
-[13]
-
-LaTeX Warning: Reference `fig:surfPCA' on page 14 undefined on input line 259.
-
+ <Figures/full_PCA.eps> [10]
 File: Figures/surfacePCA.eps Graphic file (type eps)
-<Figures/surfacePCA.eps>
 
-LaTeX Warning: Reference `fig:performance' on page 14 undefined on input line 2
-71.
-
-[14]
+<Figures/surfacePCA.eps> [11]
 File: Figures/performance.eps Graphic file (type eps)
  <Figures/performance.eps>
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 277.
+(Font)              <7> on input line 191.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 277.
+(Font)              <5> on input line 191.
 
 ! Undefined control sequence.
-l.285     \subfloat
+l.199     \subfloat
                    []{\label{fig:VRF}
 ? 
 File: Figures/Variance_RF.eps Graphic file (type eps)
@@ -320,45 +206,27 @@ File: Figures/Variance_RF.eps Graphic file (type eps)
 ! Undefined control sequence.
 <recently read> \subfloat 
                           
-l.287     \subfloat
+l.201     \subfloat
                    []{\label{fig:VNN}
 ? 
 File: Figures/Variance_NN.eps Graphic file (type eps)
 <Figures/Variance_NN.eps>
 
-! LaTeX Error: \begin{figure*} on input line 283 ended by \end{figure}.
+! LaTeX Error: \begin{figure*} on input line 197 ended by \end{figure}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.292 \end{figure}
+l.206 \end{figure}
                   
 ? 
-[15]
+[12] [13]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [16]
-
-LaTeX Warning: Reference `fig:variance' on page 17 undefined on input line 296.
-
-
-
-LaTeX Warning: Reference `fig:variance' on page 17 undefined on input line 296.
-
-
-
-LaTeX Warning: Reference `fig:bcc_structures' on page 17 undefined on input lin
-e 302.
-
+ [14]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no © in font cmr12!
-
-LaTeX Warning: Citation `Hoover1985' on page 17 undefined on input line 302.
-
-
-LaTeX Warning: Citation `Nose1984' on page 17 undefined on input line 302.
-
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Å in font cmr12!
 Missing character: There is no † in font cmr12!
@@ -366,28 +234,11 @@ Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
 
-LaTeX Warning: Citation `Mendelev2003' on page 17 undefined on input line 302.
 
+LaTeX Warning: Reference `AppendixA' on page 15 undefined on input line 216.
 
-LaTeX Warning: Reference `AppendixA' on page 17 undefined on input line 302.
-
-
-LaTeX Warning: Reference `fig:bidefbcc' on page 17 undefined on input line 302.
-
-
-
-LaTeX Warning: Reference `fig:bidefbcc' on page 17 undefined on input line 302.
-
-
-
-LaTeX Warning: Reference `fig:cspbcc' on page 17 undefined on input line 302.
-
-
-LaTeX Warning: Reference `fig:cnabcc' on page 17 undefined on input line 302.
-
-[17]
 ! Undefined control sequence.
-l.306 \subfloat
+l.220 \subfloat
                []{\label{fig:bidefbcc}
 ? 
 File: Figures/BCC_300_BiDef.png.eps Graphic file (type eps)
@@ -395,27 +246,19 @@ File: Figures/BCC_300_BiDef.png.eps Graphic file (type eps)
 ! Undefined control sequence.
 <recently read> \subfloat 
                           
-l.308 \subfloat
+l.222 \subfloat
                []{\label{fig:cspbcc}
 ? 
 File: Figures/BCC_300_CSP.png.eps Graphic file (type eps)
 <Figures/BCC_300_CSP.png.eps>
 ! Undefined control sequence.
-l.310 \subfloat
+l.224 \subfloat
                []{\label{fig:cnabcc}
 ? 
 File: Figures/BCC_300_CNA.png.eps Graphic file (type eps)
-<Figures/BCC_300_CNA.png.eps>
-
-LaTeX Warning: Reference `fig:bcc_structures' on page 18 undefined on input lin
-e 317.
-
-
-LaTeX Warning: Citation `Henkelman2000' on page 18 undefined on input line 317.
-
-
+<Figures/BCC_300_CNA.png.eps> [15]
 ! Undefined control sequence.
-l.321 \subfloat
+l.235 \subfloat
                []{\label{fig:bidefbcc}
 ? 
 File: Figures/BCC_300_STRAIN_BiDef.png.eps Graphic file (type eps)
@@ -423,35 +266,26 @@ File: Figures/BCC_300_STRAIN_BiDef.png.eps Graphic file (type eps)
 ! Undefined control sequence.
 <recently read> \subfloat 
                           
-l.323 \subfloat
+l.237 \subfloat
                []{\label{fig:cspbcc}
 ? 
 File: Figures/BCC_300_STRAIN_CSP.png.eps Graphic file (type eps)
 <Figures/BCC_300_STRAIN_CSP.png.eps>
 ! Undefined control sequence.
-l.325 \subfloat
+l.239 \subfloat
                []{\label{fig:cnabcc}
 ? 
 File: Figures/BCC_300_STRAIN_CNA.png.eps Graphic file (type eps)
-<Figures/BCC_300_STRAIN_CNA.png.eps>
-
-LaTeX Warning: Reference `fig:bcc_strain_structures' on page 18 undefined on in
-put line 332.
-
+<Figures/BCC_300_STRAIN_CNA.png.eps> [16] [17]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no © in font cmr12!
-[18]
 File: Figures/bcc_error.eps Graphic file (type eps)
  <Figures/bcc_error.eps>
 File: Figures/fcc_error.eps Graphic file (type eps)
- <Figures/fcc_error.eps>
 
-LaTeX Warning: Reference `fig:errorbcc' on page 19 undefined on input line 352.
-
-
-[19]
+<Figures/fcc_error.eps> [18]
 ! Undefined control sequence.
-l.356 \subfloat
+l.270 \subfloat
                []{\label{fig:bispecnoise}
 ? 
 File: Figures/fcc_noise_bidef.png.eps Graphic file (type eps)
@@ -459,43 +293,23 @@ File: Figures/fcc_noise_bidef.png.eps Graphic file (type eps)
 ! Undefined control sequence.
 <recently read> \subfloat 
                           
-l.358 \subfloat
+l.272 \subfloat
                []{\label{fig:cnanoise}
 ? 
 File: Figures/fcc_noise_cna.png.eps Graphic file (type eps)
-<Figures/fcc_noise_cna.png.eps> [20] [21]
+<Figures/fcc_noise_cna.png.eps>
 
-LaTeX Warning: Reference `fig:errorfcc' on page 22 undefined on input line 365.
-
-
-
-LaTeX Warning: Reference `fig:errorfcc' on page 22 undefined on input line 365.
+LaTeX Warning: Command \r invalid in math mode on input line 281.
 
 
-
-LaTeX Warning: Reference `fig:bispecnoise' on page 22 undefined on input line 3
-65.
-
-[22]
-
-LaTeX Warning: Command \r invalid in math mode on input line 367.
+LaTeX Warning: Command \r invalid in math mode on input line 281.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 367.
+LaTeX Warning: Command \r invalid in math mode on input line 281.
 
-
-LaTeX Warning: Command \r invalid in math mode on input line 367.
-
-
-LaTeX Warning: Reference `fig:vacancy_structures' on page 23 undefined on input
- line 367.
-
-
-LaTeX Warning: Reference `fig:vacancy_structures' on page 23 undefined on input
- line 367.
-
+[19]
 ! Undefined control sequence.
-l.371 \subfloat
+l.285 \subfloat
                []{\label{fig:bidefvac}
 ? 
 File: Figures/vacancies_render_bidef.png.eps Graphic file (type eps)
@@ -503,60 +317,63 @@ File: Figures/vacancies_render_bidef.png.eps Graphic file (type eps)
 ! Undefined control sequence.
 <recently read> \subfloat 
                           
-l.373 \subfloat
+l.287 \subfloat
                []{\label{fig:cspvac}
 ? 
 File: Figures/vacancies_render_csp.png.eps Graphic file (type eps)
 <Figures/vacancies_render_csp.png.eps>
 ! Undefined control sequence.
-l.375 \subfloat
+l.289 \subfloat
                []{\label{fig:cnavac}
 ? 
 File: Figures/vacancies_render_cna.png.eps Graphic file (type eps)
-<Figures/vacancies_render_cna.png.eps>
-
-LaTeX Warning: Reference `fig:errorvacancy' on page 23 undefined on input line 
-384.
-
+<Figures/vacancies_render_cna.png.eps> [20] [21]
 File: Figures/vacancy_error.eps Graphic file (type eps)
-<Figures/vacancy_error.eps> [23] [24]
+ <Figures/vacancy_error.eps>
+[22] (./machine_learning.bbl
+Underfull \hbox (badness 1888) in paragraph at lines 4--8
+\OT1/cmr/m/n/10 Potentials : The Accuracy of Quantum Mechanics , without the El
+ectrons.  \OT1/cmr/m/it/10 PRL\OT1/cmr/m/n/10 ,
+ []
 
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.399 \bibitem{Bibliography}
-                            
-? 
+Underfull \hbox (badness 1590) in paragraph at lines 10--13
+[]\OT1/cmr/m/n/10 Albert Bart^^Sok-P^^Sartay.  \OT1/cmr/m/it/10 The Gaussian Ap
+proximation Potential\OT1/cmr/m/n/10 .  Springer-Verlag, Berlin,
+ []
+
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no Å in font cmr10!
+[23]
+Missing character: There is no ≈ in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+
 ! Undefined control sequence.
-<argument> \@listctr 
-                     
-l.399 \bibitem{Bibliography}
-                            
+l.93 \newblock {\em \prb
+                        }, 28:784--805, July 1983.
 ? 
-! You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.399 \bibitem{Bibliography}
-                            
-? 
-[25] (./machine_learning.aux)
+Missing character: There is no « in font cmr10!
+Missing character: There is no ß in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no ± in font cmr10!
+) [24] (./machine_learning.aux)
 
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 955 strings out of 493090
- 9890 string characters out of 6134874
+ 933 strings out of 493090
+ 9793 string characters out of 6134874
  72045 words of memory out of 5000000
- 4468 multiletter control sequences out of 15000+600000
- 9352 words of font info for 33 fonts, out of 8000000 for 9000
+ 4442 multiletter control sequences out of 15000+600000
+ 9698 words of font info for 34 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 25i,8n,19p,2513b,344s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 25i,8n,19p,2511b,344s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on machine_learning.dvi (25 pages, 80808 bytes).
+Output written on machine_learning.dvi (24 pages, 78084 bytes).

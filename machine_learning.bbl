@@ -1,0 +1,137 @@
+\begin{thebibliography}{10}
+
+\bibitem{Bartok2010a}
+Albert~P Bartok, Mike~C Payne, Risi Kondor, and Gabor Csanyi.
+\newblock {Gaussian Approximation Potentials : The Accuracy of Quantum
+  Mechanics , without the Electrons}.
+\newblock {\em PRL}, 104(April):136403, 2010.
+
+\bibitem{Bartok-Partay}
+Albert Bart\'{o}k-P\'{a}rtay.
+\newblock {\em {The Gaussian Approximation Potential}}.
+\newblock Springer-Verlag, Berlin, Heidelberg, 1 edition, 2010.
+
+\bibitem{Bentley1975}
+Jon~Louis Bentley.
+\newblock {Multidimensional Binary Search Trees Used for Associative
+  Searching}.
+\newblock {\em Communications of the ACM}, 18(9):509--517, 1975.
+
+\bibitem{Breiman2001}
+Leo Breiman.
+\newblock Random forests.
+\newblock {\em Mach. Learn.}, 45(1):5--32, October 2001.
+
+\bibitem{Henkelman2000}
+Graeme Henkelman, Blas~P. Uberuaga, and Hannes Jónsson.
+\newblock {A climbing image nudged elastic band method for finding saddle
+  points and minimum energy paths}.
+\newblock {\em The Journal of Chemical Physics}, 113(22):9901, 2000.
+
+\bibitem{Hirel2015}
+Pierre Hirel.
+\newblock {Atomsk: A tool for manipulating and converting atomic data files}.
+\newblock {\em Computer Physics Communications}, In Press:1--8, August 2015.
+
+\bibitem{Honeycutt1987}
+J~Dana. Honeycutt and Hans~C Andersen.
+\newblock {Molecular dynamics study of melting and freezing of small
+  Lennard-Jones clusters}.
+\newblock {\em The Journal of Physical Chemistry}, 91(19):4950--4963, 1987.
+
+\bibitem{Hoover1985}
+William~G Hoover.
+\newblock {Canonical dynamics: Equilibrium phase-space distributions}.
+\newblock {\em Physical Review A}, 31(3):1695--1697, 1985.
+
+\bibitem{Kelchner1998}
+Cynthia Kelchner, S.~Plimpton, and J.~Hamilton.
+\newblock {Dislocation nucleation and defect structure during surface
+  indentation}.
+\newblock {\em Physical Review B}, 58(17):11085--11088, November 1998.
+
+\bibitem{Mendelev2003}
+M.~I. Mendelev, S.~Han, D.~J. Srolovitz, G.~J. Ackland, D.~Y. Sun, and M.~Asta.
+\newblock {Development of new interatomic potentials appropriate for
+  crystalline and liquid iron}.
+\newblock {\em Philosophical Magazine}, 83(35):3977--3994, December 2003.
+
+\bibitem{Mohri2012}
+Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar.
+\newblock {\em Foundations of machine learning}.
+\newblock Adaptive computation and machine learning series. MIT Press,
+  Cambridge (Mass.), London, 2012.
+
+\bibitem{Nose1984}
+Shūichi Nos\'{e}.
+\newblock {A molecular dynamics method for simulations in the canonical
+  ensemble}, 1984.
+
+\bibitem{Omohundro1989}
+Stephen~M Omohundro.
+\newblock {Five Balltree Construction Algorithms}.
+\newblock pages 1--22, 1989.
+
+\bibitem{Plimpton1995}
+Steve Plimpton.
+\newblock {Fast Parallel Algorithms for Short – Range Molecular Dynamics}.
+\newblock {\em Journal of Computational Physics}, 117(June 1994):1--42, 1995.
+
+\bibitem{Shlens2014}
+Jonathon Shlens.
+\newblock A tutorial on principal component analysis.
+\newblock {\em CoRR}, abs/1404.1100, 2014.
+
+\bibitem{Smola2004}
+Alex~J Smola and Bernhard Scholkopf.
+\newblock {A tutorial on support vector regression}.
+\newblock {\em Statistics and Computing}, 14:199--222, 2004.
+
+\bibitem{Steinhardt1983}
+P.~J. {Steinhardt}, D.~R. {Nelson}, and M.~{Ronchetti}.
+\newblock {Bond-orientational order in liquids and glasses}.
+\newblock {\em \prb}, 28:784--805, July 1983.
+
+\bibitem{Stukowski2012}
+Alexander Stukowski.
+\newblock {Structure identification methods for atomistic simulations of
+  crystalline materials}.
+\newblock {\em Modelling and Simulation in Materials Science and Engineering},
+  20(4):045021, June 2012.
+
+\bibitem{Stukowski2010b}
+Alexander Stukowski and Karsten Albe.
+\newblock {Extracting dislocations and non-dislocation crystal defects from
+  atomistic simulation data}.
+\newblock {\em Modelling and Simulation in Materials Science and Engineering},
+  18(8):85001, 2010.
+
+\bibitem{Thompson2014}
+A~P Thompson, L~P Swiler, C~R Trott, S~M Foiles, and G~J Tucker.
+\newblock {A Spectral Analysis Method for Automated Generation of
+  Quantum-Accurate Interatomic Potentials}.
+\newblock {\em arxiv}, 2014.
+
+\bibitem{varshalovich1988}
+D.A. Varshalovich, A.N. Moskalev, and Khersonski{\u\i}.
+\newblock {\em Quantum Theory of Angular Momentum: Irreducible Tensors,
+  Spherical Harmonics, Vector Coupling Coefficients, 3nj Symbols}.
+
+\bibitem{Zhang2004}
+Qing Zhang, Tahir \c{C}aǧın, Adri van Duin, William Goddard, Yue Qi, and
+  Louis Hector.
+\newblock {Adhesion and nonwetting-wetting transition in the Al/$\alpha$-Al2O3
+  interface}.
+\newblock {\em Physical Review B}, 69(4):045423, January 2004.
+
+\bibitem{Zhu2009}
+Ji~Zhu, Hui Zou, Saharon Rosset, and Trevor Hastie.
+\newblock {Multi-class AdaBoost}.
+\newblock {\em Statistics and ITS Interface}, 2:349--360, 2009.
+
+\bibitem{Zimmerman2001}
+J.~A. Zimmerman, C.~L. Kelchner, P.~A. Klein, J.~C. Hamilton, and S.~M. Foiles.
+\newblock Surface step effects on nanoindentation.
+\newblock {\em Phys. Rev. Lett.}, 87:165507, Oct 2001.
+
+\end{thebibliography}

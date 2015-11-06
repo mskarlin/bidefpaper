@@ -124,6 +124,22 @@ volume = {136},
 year = {2012}
 }
 
+@article{Stukowski2013,
+author = {Stukowski, Alexander},
+doi = {10.1007/s11837-013-0827-5},
+file = {:home/qgroup/Downloads/art\%3A10.1007\%2Fs11837-013-0827-5.pdf:pdf},
+isbn = {1183701308275},
+issn = {1047-4838},
+journal = {Jom},
+month = dec,
+number = {3},
+pages = {399--407},
+title = {{Computational Analysis Methods in Atomistic Modeling of Crystals}},
+url = {http://link.springer.com/10.1007/s11837-013-0827-5},
+volume = {66},
+year = {2013}
+}
+
 
 ### REMEMBER TO DO BARTOK TOOO!!!!!!!!!!!!!!!!!!!!
 
