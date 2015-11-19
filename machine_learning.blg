@@ -2,9 +2,9 @@ This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: machine_learning.aux
 The style file: plain.bst
-White space in argument---line 43 of file machine_learning.aux
- : \citation{eslii
- :                 chapter}
+Illegal, another \bibstyle command---line 134 of file machine_learning.aux
+ : \bibstyle
+ :          {unsrt}
 I'm skipping whatever remains of this command
 Database file #1: Bibliography.bib
 "}" immediately follows a field name---line 11418 of file Bibliography.bib
@@ -15,51 +15,48 @@ Repeated entry---line 11494 of file Bibliography.bib
  : @inproceedings{Zhang2004
  :                         ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Stukowski2013"
-Warning--I didn't find a database entry for "BOOK"
-Warning--I didn't find a database entry for "breiman2001_in_book"
 Warning--empty journal in Omohundro1989
 Warning--empty publisher in varshalovich1988
 Warning--empty year in varshalovich1988
-You've used 24 entries,
+You've used 27 entries,
             2118 wiz_defined-function locations,
-            683 strings with 8049 characters,
-and the built_in function-call counts, 7711 in all, are:
-= -- 750
-> -- 367
+            699 strings with 8673 characters,
+and the built_in function-call counts, 8828 in all, are:
+= -- 853
+> -- 431
 < -- 1
-+ -- 147
-- -- 122
-* -- 593
-:= -- 1327
-add.period$ -- 71
-call.type$ -- 24
-change.case$ -- 131
++ -- 172
+- -- 144
+* -- 695
+:= -- 1518
+add.period$ -- 81
+call.type$ -- 27
+change.case$ -- 150
 chr.to.int$ -- 0
-cite$ -- 27
-duplicate$ -- 266
-empty$ -- 595
-format.name$ -- 122
-if$ -- 1556
+cite$ -- 30
+duplicate$ -- 301
+empty$ -- 678
+format.name$ -- 144
+if$ -- 1782
 int.to.chr$ -- 0
-int.to.str$ -- 24
-missing$ -- 26
-newline$ -- 121
-num.names$ -- 48
-pop$ -- 114
+int.to.str$ -- 27
+missing$ -- 30
+newline$ -- 136
+num.names$ -- 54
+pop$ -- 131
 preamble$ -- 1
-purify$ -- 109
+purify$ -- 126
 quote$ -- 0
-skip$ -- 174
+skip$ -- 193
 stack$ -- 0
-substring$ -- 510
-swap$ -- 28
+substring$ -- 579
+swap$ -- 31
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 90
+type$ -- 100
 warning$ -- 3
-while$ -- 78
-width$ -- 26
-write$ -- 259
+while$ -- 87
+width$ -- 29
+write$ -- 293
 (There were 3 error messages)

@@ -22,6 +22,12 @@ Leo Breiman.
 \newblock Random forests.
 \newblock {\em Mach. Learn.}, 45(1):5--32, October 2001.
 
+\bibitem{Hastie2001}
+Trevor Hastie, Robert Tibshirani, and Jerome Friedman.
+\newblock {\em The Elements of Statistical Learning}.
+\newblock Springer Series in Statistics. Springer New York Inc., New York, NY,
+  USA, 2001.
+
 \bibitem{Henkelman2000}
 Graeme Henkelman, Blas~P. Uberuaga, and Hannes Jónsson.
 \newblock {A climbing image nudged elastic band method for finding saddle
@@ -56,6 +62,13 @@ M.~I. Mendelev, S.~Han, D.~J. Srolovitz, G.~J. Ackland, D.~Y. Sun, and M.~Asta.
   crystalline and liquid iron}.
 \newblock {\em Philosophical Magazine}, 83(35):3977--3994, December 2003.
 
+\bibitem{Mishin2001}
+Y~Mishin, M~J Mehl, D~A Papaconstantopoulos, A~F Voter, and J~D Kress.
+\newblock {Structural stability and lattice defects in copper:
+  $\backslash$textit\{Ab initio\} , tight-binding, and embedded-atom
+  calculations}.
+\newblock {\em Phys. Rev. B}, 63(22):224106, May 2001.
+
 \bibitem{Mohri2012}
 Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar.
 \newblock {\em Foundations of machine learning}.
@@ -77,10 +90,12 @@ Steve Plimpton.
 \newblock {Fast Parallel Algorithms for Short – Range Molecular Dynamics}.
 \newblock {\em Journal of Computational Physics}, 117(June 1994):1--42, 1995.
 
-\bibitem{Shlens2014}
-Jonathon Shlens.
-\newblock A tutorial on principal component analysis.
-\newblock {\em CoRR}, abs/1404.1100, 2014.
+\bibitem{Schablitzki2013}
+T~Schablitzki, J~Rogal, and R~Drautz.
+\newblock {Topological fingerprints for intermetallic compounds for the
+  automated classification of atomistic simulation data}.
+\newblock {\em Modelling and Simulation in Materials Science and Engineering},
+  21(7):075008, October 2013.
 
 \bibitem{Smola2004}
 Alex~J Smola and Bernhard Scholkopf.
@@ -91,6 +106,13 @@ Alex~J Smola and Bernhard Scholkopf.
 P.~J. {Steinhardt}, D.~R. {Nelson}, and M.~{Ronchetti}.
 \newblock {Bond-orientational order in liquids and glasses}.
 \newblock {\em \prb}, 28:784--805, July 1983.
+
+\bibitem{Stukowski2010}
+Alexander Stukowski.
+\newblock {Visualization and analysis of atomistic simulation data with
+  OVITO–the Open Visualization Tool}.
+\newblock {\em Modelling and Simulation in Materials Science and Engineering},
+  18(1):015012, January 2010.
 
 \bibitem{Stukowski2012}
 Alexander Stukowski.
